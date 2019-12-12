@@ -590,15 +590,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 930078ff22b14e54094da564bf2b4b6c, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.5
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 930078ff22b14e54094da564bf2b4b6c, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.2
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 930078ff22b14e54094da564bf2b4b6c, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.33
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 9500000, guid: 930078ff22b14e54094da564bf2b4b6c, type: 3}
       propertyPath: m_Controller
