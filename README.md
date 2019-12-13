@@ -28,7 +28,7 @@ AR application that recognizes specific image and displays a walking 3D model on
 - Enable USB debugging on phone and connect device to PC ([Help](https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html))
 - Build and run on Unity and try the application on your Android device
 - Use following image to test AR App
-
+![Image for testing](https://github.com/rwth-acis/MiniatureFigure-Hallolens/blob/master/imageForARApp.jpg)
 ## Resources Used
 - Unity 2017.4.34
 - [Vuforia](https://developer.vuforia.com/)
